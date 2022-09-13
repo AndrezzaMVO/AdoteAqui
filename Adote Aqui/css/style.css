@@ -1,0 +1,27 @@
+body{
+    color: black;
+}
+
+.mainav1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: aqua;
+    margin-left: 60%;
+}
+
+.mainav {
+    background-color: olive;
+    color: darkred;  
+    
+}
+
+.mainav li {
+    display: inline;
+    padding: 5%;
+}
+
+.mainav li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
